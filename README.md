@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @AmirShamex
-- 👀 I’m interested in bioinformatics
-- 🌱 I’m currently learning Python & R
-- 💞️ I’m looking to collaborate on biological datasets
-- 📫 Here is my email: amirhshamekhi@gmail.com
+Hello World! 🌍
+
+Bioinformatics enthusiast 🧬 💻
